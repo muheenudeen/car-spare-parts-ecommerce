@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "url": "src/assets/oil1.jpeg",
+        "description": "Engin Oil",
+        "price": "233"
+      },
+      {
+        "id": "2",
+        "url": "src/assets/door-protection.jpg",
+        "description": "Door Protection",
+        "price": "123"
+      },
+      {
+        "id": "3",
+        "url": "src/assets/head-light.jpg",
+        "description": "Head Light Orginal",
+        "price": "1799"
+      },
+      {
+        "id": "4",
+        "url": "src/assets/gear-box.jpeg",
+        "description": "First Gear Box",
+        "price": "3444"
+      },
+      {
+        "id": "5",
+        "url": "src/assets/break-pad.jpeg",
+        "description": "Break Pad",
+        "price": "2666"
+      },
+      {
+        "id": "6",
+        "url": "src/assets/tayar.jpeg",
+        "description": "MRF tayar",
+        "price": "13000"
+      },
+      {
+        "id": "7",
+        "url": "src/assets/oil1.jpeg",
+        "description": "Engin Cool Oil",
+        "price": "1700"
+      },
+      {
+        "id": "8",
+        "url": "src/assets/wheel1.jpeg",
+        "description": "Extra Wheel",
+        "price": "12000"
+      },
+      {
+        "id": "9",
+        "url": "src/assets/wheel2.jpeg",
+        "description": "wheel kit",
+        "price": "24000"
+      }
+    ]
+}

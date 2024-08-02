@@ -1,16 +1,15 @@
-import HomePage from "../page/HomePage"
 import Navbar from "./Navbar"
+import { Outlet } from 'react-router-dom';
 
 
-const Outlet=()=>{
-    return(
+const Style = () => {
+    return (
         <>
-        <Navbar/>
+            <Navbar />
+            <Outlet />
 
-        <HomePage/>
-        
         </>
     )
 }
 
-export default Outlet
+export default Style
